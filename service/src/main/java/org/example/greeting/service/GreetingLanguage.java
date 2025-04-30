@@ -9,5 +9,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
 public @interface GreetingLanguage {
-    String value() default "default";
+    String value() default "No language defined";
 }
