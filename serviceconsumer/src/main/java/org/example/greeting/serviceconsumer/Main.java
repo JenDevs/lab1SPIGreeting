@@ -3,7 +3,6 @@ package org.example.greeting.serviceconsumer;
 import org.example.greeting.service.GreetingLanguage;
 import org.example.greeting.service.GreetingService;
 
-import java.lang.annotation.Annotation;
 import java.util.*;
 
 
